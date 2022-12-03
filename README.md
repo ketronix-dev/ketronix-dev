@@ -19,7 +19,7 @@ My main OS is Linux, besides I do a little bit of blogging related to this OS.
 ## My projects
 
 ### Unity:
-- [QuietBall (Android)](https://github.com/ketronix-dev/QuietBall) [Video](https://www.youtube.com/watch?v=pKRThysYecA) [Itch.io](https://fastgame.itch.io/quietball)
+- [QuietBall (Android)](https://github.com/ketronix-dev/QuietBall) | [Video](https://www.youtube.com/watch?v=pKRThysYecA) | [Itch.io](https://fastgame.itch.io/quietball)
 - [CUBIUS](https://github.com/ketronix-dev/CUBIUS)
 - [I.C.E](https://github.com/ketronix-dev/I-C-E)
 
