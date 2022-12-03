@@ -20,8 +20,8 @@ My main OS is Linux, besides I do a little bit of blogging related to this OS.
 
 ### Unity:
 - [QuietBall (Android)](https://github.com/ketronix-dev/QuietBall) | [Video](https://www.youtube.com/watch?v=pKRThysYecA) | [Itch.io](https://fastgame.itch.io/quietball)
-- [CUBIUS](https://github.com/ketronix-dev/CUBIUS)
-- [I.C.E](https://github.com/ketronix-dev/I-C-E)
+- [CUBIUS (Android)](https://github.com/ketronix-dev/CUBIUS)
+- [I.C.E (Android)](https://github.com/ketronix-dev/I-C-E)
 
 ### C#
 - [USBDevice library for linux](https://github.com/ketronix-dev/USBDevice)
