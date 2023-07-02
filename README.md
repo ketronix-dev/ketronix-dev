@@ -28,5 +28,5 @@ My main OS is Linux, besides I do a little bit of blogging related to this OS.
 - [RSS terminal client](https://github.com/ketronix-dev/rss_client)
 - [RSS client with AvaloniaUI](https://github.com/ketronix-dev/RSS-Avalonia)
 - [CoreCommands for get realtime text output from running system command](https://github.com/ketronix-dev/CoreCommands)
-- [NURE schedule generation bot for Telegram](https://github.com/ketronix-dev/nure-shedule-bot)
+- [NURE schedule generation bot for Telegram](https://github.com/ketronix-dev/nure-cist-bot)
 - [AppImage installer from cloud repo or file](https://github.com/ketronix-dev/appimage-installer-ng)
