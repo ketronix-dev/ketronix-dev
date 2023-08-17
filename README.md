@@ -4,7 +4,7 @@ I'm glad you came to my profile. It means that I or my project interest you. And
 
 ## Who am I?
 
-My name is Artem Dadashyants. I'm 18 years old, and I live in Ukraine.
+My name is Artem Dadashyants. I'm 19 years old, and I live in Ukraine.
 
 My main occupation is game development in Unity. But recently I have also been developing system utilities in C#. For example, I wrote a manager of AppImage integration into the system both from a file and from remote repository.
 
@@ -13,7 +13,7 @@ At this moment I am studying at NURE, as a system programmer.
 My main OS is Linux, besides I do a little bit of blogging related to this OS.
 
 - [Youtube](https://www.youtube.com/@ketronix_dev)
-- [Telegram (chanell)](https://t.me/osel_linux)
+- [Telegram (chanell)](https://t.me/ketronix_blog)
 - [Telegram (my account)](https://t.me/ketronix_dev)
 
 ## My projects
