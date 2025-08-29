@@ -4,7 +4,7 @@ I'm glad you came to my profile. It means that I or my project interest you. And
 
 ## Who am I?
 
-My name is Artem Dadashyants. I'm 19 years old, and I live in Ukraine.
+My name is Artem Dadashyants. I'm 21 years old, and I live in Ukraine.
 
 My main occupation is game development in Unity. But recently I have also been developing system utilities in C#. For example, I wrote a manager of AppImage integration into the system both from a file and from remote repository.
 
