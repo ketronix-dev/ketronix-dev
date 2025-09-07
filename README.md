@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Artem Dadashyants
 
-🎓 System programming student at **Kharkiv National University of Radioelectronics (NURE)**  
 💻 Junior **DevOps Engineer** with experience in Linux server administration, containerization, automation, and monitoring  
+🎓 Studied **Computer Engeneering** at **Kharkiv National University of Radioelectronics (NURE)**  
 🌍 Based in Ukraine | Founder of [Mindenit](https://github.com/mindenit)  
 
 ---
